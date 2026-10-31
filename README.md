@@ -96,3 +96,5 @@ feature/travel-multiagent  ->  develop  ->  main
 
 En cada Pull Request y en cada push a `develop` o `main` se ejecuta GitHub Actions: Ruff,
 Pytest con cobertura y análisis de SonarQube Cloud.
+## Estado del proyecto
+Sistema multiagente validado con pruebas unitarias y CI/CD exitoso.
